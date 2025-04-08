@@ -1,0 +1,12 @@
+Options -Indexes
+
+# Deny accessing below extensions
+<Files ~ "(.lock|.git|.env|.env.example|.env.live|.env.local|.env.dev)">
+Order allow,deny
+Deny from all
+</Files>
+
+<Files ~ "(docker-compose.yml|Dockerfile)">
+Order allow,deny
+Deny from all
+</Files>
