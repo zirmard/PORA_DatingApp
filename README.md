@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 
@@ -49,3 +50,7 @@ $ php artisan storage:link
 $ php artisan l5-swagger:generate
 ```
 ##### Swagger Url: http://localhost/basecode_laravel/code/public/api/documentation
+=======
+# PORA_DatingApp
+Backend_API
+>>>>>>> 4f186bfebe67fcc4079b8808118bf5aa92429978
